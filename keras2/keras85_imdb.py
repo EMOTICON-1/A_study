@@ -1,4 +1,4 @@
-from tensorflow.keras.datasets import imdb
+#from tensorflow.keras.datasets import imdb
 import matplotlib.pyplot as plt
 import numpy as np
 
